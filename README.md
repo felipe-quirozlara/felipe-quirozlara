@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @felipe-quirozlara
+- 👀 I’m interested in frontend and backend development.
+- 🌱 I’m currently learning Ionic with Android
+- 💞️ I’m looking to collaborate on React project.
+- 📫 You can contact me on my portfolio website or send me a email. 
